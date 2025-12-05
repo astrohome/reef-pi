@@ -4,6 +4,7 @@ go 1.23.2
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
+	github.com/astrohome/drivers v0.0.0-20251205230412-91c44b8fb296
 	github.com/coreos/go-systemd/v22 v22.6.0
 	github.com/dustin/go-humanize v1.0.1
 	github.com/eclipse/paho.mqtt.golang v1.5.0
@@ -15,7 +16,6 @@ require (
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
 	github.com/prometheus/client_golang v1.21.0
 	github.com/reef-pi/adafruitio v0.0.0-20171007064130-a3cae37cdd64
-	github.com/reef-pi/drivers v0.0.0-20250128072720-92eb51c1f19f
 	github.com/reef-pi/hal v0.0.0-20241230081938-0bb4bbd0e03a
 	github.com/reef-pi/rpi v0.0.0-20250130173510-47fda5a629dd
 	github.com/robfig/cron/v3 v3.0.1

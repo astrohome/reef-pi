@@ -1,5 +1,7 @@
 github.com/Knetic/govaluate v3.0.0+incompatible h1:7o6+MAPhYTCF0+fdvoz1xDedhRb4f6s9Tn1Tt7/WTEg=
 github.com/Knetic/govaluate v3.0.0+incompatible/go.mod h1:r7JcOSlj0wfOMncg0iLm8Leh48TZaKVeNIfJntJ2wa0=
+github.com/astrohome/drivers v0.0.0-20251205230412-91c44b8fb296 h1:vmCDAZELrYQcyRXNj9YARSr068KXsrdx43UUqY0EiwQ=
+github.com/astrohome/drivers v0.0.0-20251205230412-91c44b8fb296/go.mod h1:vGdgJSoa2/uXBnb02X2hu3sLn4SGT1Di7yOuxrif36A=
 github.com/beorn7/perks v1.0.1 h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=
 github.com/beorn7/perks v1.0.1/go.mod h1:G2ZrVWU2WbWT9wwq4/hrbKbnv/1ERSJQ0ibhJ6rlkpw=
 github.com/cespare/xxhash/v2 v2.3.0 h1:UL815xU9SqsFlibzuggzjXhog7bL6oX9BbNZnL2UFvs=
@@ -66,8 +68,6 @@ github.com/prometheus/procfs v0.15.1 h1:YagwOFzUgYfKKHX6Dr+sHT7km/hxC76UB0leargg
 github.com/prometheus/procfs v0.15.1/go.mod h1:fB45yRUv8NstnjriLhBQLuOUt+WW4BsoGhij/e3PBqk=
 github.com/reef-pi/adafruitio v0.0.0-20171007064130-a3cae37cdd64 h1:pv5kOD9OkP5vntO6lAtFLUyGpyfZtu8QkaZ5sIabh8k=
 github.com/reef-pi/adafruitio v0.0.0-20171007064130-a3cae37cdd64/go.mod h1:UBHNdzbwzKriDbmPAr34k4hdd+x/VYKO6xJ4ebDztEo=
-github.com/reef-pi/drivers v0.0.0-20250128072720-92eb51c1f19f h1:26wSgU7CWQ2sLa6lAKKIDKeiLrXev+hZYYSCdG0YIBo=
-github.com/reef-pi/drivers v0.0.0-20250128072720-92eb51c1f19f/go.mod h1:xCag7VFtKOAc65mBt1CsSFkNwJ3ITAU5yLWN8k12uGI=
 github.com/reef-pi/hal v0.0.0-20241230081938-0bb4bbd0e03a h1:I4MRPsobJgpj1LaJ28Ren+++FrrwnGQ+/HRK9FSc9ic=
 github.com/reef-pi/hal v0.0.0-20241230081938-0bb4bbd0e03a/go.mod h1:ymcJ0AbYfWXT1vyAbXOjKtWaFdCv1HHYmXDMWxJSWSM=
 github.com/reef-pi/rpi v0.0.0-20250130173510-47fda5a629dd h1:qfofVzhWrYZJuekxBuCs0pyjTbZC5e42sXhHI1f33Fg=
