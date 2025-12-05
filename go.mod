@@ -6,7 +6,7 @@ replace github.com/astrohome/drivers => ../drivers
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
-	github.com/astrohome/drivers v0.0.0-20251205230412-91c44b8fb296
+	github.com/astrohome/drivers v0.0.0-20251205234023-0d8765a1b8e9
 	github.com/coreos/go-systemd/v22 v22.4.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/eclipse/paho.mqtt.golang v1.4.2
