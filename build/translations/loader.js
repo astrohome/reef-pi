@@ -1,5 +1,5 @@
 const { genTsObj } = require('./csv-json')
-const { parse } = require('csv-parse/sync')
+const parse = require('csv-parse/lib/sync')
 
 exports.default = function (source) {
   const records = parse(source, {
