@@ -2,8 +2,6 @@ module github.com/reef-pi/reef-pi
 
 go 1.23.2
 
-replace github.com/astrohome/drivers => ../drivers
-
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
 	github.com/astrohome/drivers v0.0.0-20251205234023-0d8765a1b8e9
